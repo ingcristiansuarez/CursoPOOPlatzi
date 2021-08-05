@@ -1,0 +1,1 @@
+alert( "Soy un código JavaScript" );
